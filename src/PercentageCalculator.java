@@ -1,6 +1,4 @@
 
-package javaday4;
-
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
